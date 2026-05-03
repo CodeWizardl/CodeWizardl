@@ -5,7 +5,7 @@
 <td valign="top" width="62%">
 
 ### 💫 About Me:
-<p>I build intelligent systems where machine learning, deep learning, generative AI, and backend engineering overlap — LLM applications, RAG pipelines, NLP models, IoT systems, and computer vision. I specialise in developing models from scratch and integrating them with production-ready backends via REST APIs, vector databases, and scalable data pipelines. My research has led to open-source publications in agriculture and healthcare, turning a raw problem into a running system. These days, I'm spending most of my time on agentic AI and multimodal systems.</p>
+<p>I build intelligent systems where machine learning, deep learning, generative AI, and backend engineering overlap LLM applications, RAG pipelines, NLP models, IoT systems, and computer vision. I specialise in developing models from scratch and integrating them with production-ready backends via REST APIs, vector databases, and scalable data pipelines. My research has led to open-source publications in agriculture and healthcare, turning a raw problem into a running system. These days, I'm spending most of my time on agentic AI and multimodal systems.</p>
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/potnuru.ankit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/potnuru-ankit-krishna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitkrishna2050@gmail.com) 
