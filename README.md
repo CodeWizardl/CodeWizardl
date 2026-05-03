@@ -4,7 +4,7 @@
 <tr>
 <td valign="top" width="62%">
 
-### 👨‍💻 About Me:
+### 💫 About Me:
 <p>I build intelligent systems where machine learning, deep learning, generative AI, and backend engineering overlap — LLM applications, RAG pipelines, NLP models, IoT systems, and computer vision. I specialise in developing models from scratch and integrating them with production-ready backends via REST APIs, vector databases, and scalable data pipelines. My research has led to open-source publications in agriculture and healthcare, turning a raw problem into a running system. These days, I'm spending most of my time on agentic AI and multimodal systems.</p>
 
 ### 🌐 Socials:
